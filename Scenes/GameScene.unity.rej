@@ -1,0 +1,9 @@
+diff a/Assets/Scenes/GameScene.unity b/Assets/Scenes/GameScene.unity	(rejected hunks)
+@@ -200,7 +200,6 @@
+   - component: {fileID: 185255171}
+   - component: {fileID: 185255172}
+   - component: {fileID: 185255170}
+-  - component: {fileID: 185255167}
+   m_Layer: 0
+   m_Name: Player
+   m_TagString: Player

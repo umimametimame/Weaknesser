@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4879d4cb86c237f4e9ea3104473061ae, type: 3}
+  m_Name: KeybordMouse
+  m_EditorClassIdentifier: 
+  <up>k__BackingField:
+    m_Name: up
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 90edf07a-683c-4433-9e66-b12663d5db35
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: a593a369-a815-45be-9988-a82287e0b061
+      m_Path: <Keyboard>/w
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: up
+      m_Flags: 0
+    m_Flags: 0
+  <back>k__BackingField:
+    m_Name: back
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: af20b786-469d-4a63-88e3-fee5a14ea842
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: daa2902b-024b-4457-9a32-c773a14497d7
+      m_Path: <Keyboard>/a
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: back
+      m_Flags: 0
+    m_Flags: 0
+  <down>k__BackingField:
+    m_Name: down
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: b1a072df-3a52-42e4-8b1e-693dedad37e6
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: 57847907-3668-4a1e-8c1c-a9986d746bed
+      m_Path: <Keyboard>/s
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: down
+      m_Flags: 0
+    m_Flags: 0
+  <front>k__BackingField:
+    m_Name: 
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 8687c4cc-7c06-4f42-8be7-08e775eb6af7
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
+  <move>k__BackingField:
+    m_Name: 
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: bd3b9abd-c7c7-440d-aa21-c4d4e020cb74
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
+  <attack1>k__BackingField:
+    m_Name: attack 1
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 3e9752c0-ed4b-4195-880f-e04e9b1835bc
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: 15ed7f8b-6172-42b3-9f90-ed9d252c4209
+      m_Path: <Mouse>/leftButton
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: attack 1
+      m_Flags: 0
+    m_Flags: 0
+  <attack2>k__BackingField:
+    m_Name: attack 2
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 5e1608db-eae9-49ab-9d89-f3327d2b8119
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: da008418-32ea-492f-a6ab-c82fbfffd997
+      m_Path: <Mouse>/rightButton
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: attack 2
+      m_Flags: 0
+    m_Flags: 0
+  <shift>k__BackingField:
+    m_Name: shift
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: ee45e68b-8f3a-4687-b05f-e27e4928229c
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: febae019-e408-499b-a870-cb7f6d44769c
+      m_Path: <Keyboard>/space
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: shift
+      m_Flags: 0
+    m_Flags: 0
+  <pause>k__BackingField:
+    m_Name: pause
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 4ef159b2-4654-4754-9089-467210f9ca93
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: fb75c03a-c950-4cd4-9850-41ac92b5fce1
+      m_Path: <Keyboard>/escape
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: pause
+      m_Flags: 0
+    m_Flags: 0
+  <actions>k__BackingField: []
