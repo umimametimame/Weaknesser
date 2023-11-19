@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f5eb987a99e5c247bb03567ccae536e, type: 3}
+  m_Name: Generator_01
+  m_EditorClassIdentifier: 
+  rate: 0.2
+  burst: 1
+  diffusion: 0
+  bulletPrefab: {fileID: 3088194317056027580, guid: 3247e94acef5e864297b4ee35546b786,
+    type: 3}
+  control: 1
